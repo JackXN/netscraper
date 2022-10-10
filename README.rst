@@ -77,10 +77,9 @@ Releases
 
 You can check https://docs.scrapy.org/en/latest/news.html for the release notes.
 
-Community (blog, twitter, mail list, IRC)
+
 =========================================
 
-See https://scrapy.org/community/ for details.
 
 Contributing
 ============
