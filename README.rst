@@ -1,9 +1,4 @@
-.. image:: https://scrapy.org/img/scrapylogo.png
-   :target: https://scrapy.org/
-   
-======
-Scrapy
-======
+
 
 .. image:: https://img.shields.io/pypi/v/Scrapy.svg
    :target: https://pypi.python.org/pypi/Scrapy
