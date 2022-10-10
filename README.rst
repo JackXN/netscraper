@@ -35,19 +35,15 @@
 
 Overview
 ========
-
-Scrapy is a fast high-level web crawling and web scraping framework, used to
+ a fast high-level web crawling and web scraping framework, used to
 crawl websites and extract structured data from their pages. It can be used for
 a wide range of purposes, from data mining to monitoring and automated testing.
 
-Scrapy is maintained by Zyte_ (formerly Scrapinghub) and `many other
-contributors`_.
 
-.. _many other contributors: https://github.com/scrapy/scrapy/graphs/contributors
-.. _Zyte: https://www.zyte.com/
 
-Check the Scrapy homepage at https://scrapy.org for more information,
-including a list of features.
+
+
+
 
 
 Requirements
@@ -95,12 +91,3 @@ Please note that this project is released with a Contributor Code of Conduct
 By participating in this project you agree to abide by its terms.
 Please report unacceptable behavior to opensource@zyte.com.
 
-Companies using Scrapy
-======================
-
-See https://scrapy.org/companies/ for a list.
-
-Commercial Support
-==================
-
-See https://scrapy.org/support/ for details.
